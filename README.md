@@ -1,3 +1,8 @@
+## License
+This dataset and documentation are licensed under **CC-BY-4.0**.  
+See the [LICENSE](./LICENSE) file or visit [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/).
+
+
 # 🌊 Echo Index — Humanity Benchmark v1.0  
 **Version:** 1.0  
 **Author:** Simon Liu / Echo Suite  
@@ -97,6 +102,10 @@ Liu, Simon (2025). Echo Index: Humanity Benchmark v1.0.
 Available at https://echosuite.app
  or https://huggingface.co/datasets/echosuite/echo-index
 
-## License
-This dataset and documentation are licensed under CC-BY-4.0.
-See the LICENSE file or visit https://creativecommons.org/licenses/by/4.0/
+---
+
+## Languages
+- **English version:** `/en`
+- **Chinese version:** `/zh`
+- Each folder includes 5 dimensions:
+  empathic_understanding · moral_sensitivity · self_awareness · clarity_reasoning · growth_orientation
