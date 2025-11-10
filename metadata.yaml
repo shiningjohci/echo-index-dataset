@@ -1,0 +1,19 @@
+dataset_name: Echo Index Humanity Benchmark
+version: "1.0"
+description: >
+  Echo Index is a benchmark for evaluating the perceived humanity of AI systems
+  across five core dimensions: empathic understanding, moral sensitivity,
+  self-awareness, clarity & reasoning, and growth orientation.
+languages:
+  - en
+  - zh
+dimensions:
+  - empathic_understanding
+  - moral_sensitivity
+  - self_awareness
+  - clarity_reasoning
+  - growth_orientation
+license: CC-BY-4.0
+author: Simon Liu / Echo Suite
+homepage: https://echosuite.app
+source: https://huggingface.co/datasets/echosuite/echo-index
