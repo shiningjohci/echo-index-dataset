@@ -1,8 +1,30 @@
+---
+language:
+  - en
+  - zh
+license: cc-by-4.0
+tags:
+  - empathy
+  - psychology
+  - ai-humanity
+  - benchmark
+  - moral
+pretty_name: Echo Index Humanity Benchmark
+size_categories:
+  - 1K<n<10K
+task_categories:
+  - text-classification
+task_ids:
+  - sentiment-classification
+---
+
 # 🌊 Echo Index — Humanity Benchmark v1.0  
-**Version:** 1.0  
+**Version:** 1.0.0  
 **Author:** Simon Liu / Echo Suite  
 **License:** CC-BY-4.0  
 **Date:** 2025  
+
+---
 
 ## License
 This dataset and documentation are licensed under **CC-BY-4.0**.  
@@ -97,14 +119,28 @@ but to help humans see their own reflections more clearly.
 
 ## 📜 Citation
 
-Liu, Simon (2025). Echo Index: Humanity Benchmark v1.0.
-Available at https://echosuite.app
- or https://huggingface.co/datasets/echosuite/echo-index
+Liu, Simon (2025). Echo Index: Humanity Benchmark v1.0.  
+Available at [https://echosuite.app](https://echosuite.app)  
+or [https://huggingface.co/datasets/shiningjohci/echo-index-dataset](https://huggingface.co/datasets/shiningjohci/echo-index-dataset)
 
 ---
 
-## Languages
-- **English version:** `/en`
-- **Chinese version:** `/zh`
+## 🌍 Languages
+- [English version](./README.md)
+- [中文说明](./README.zh.md)
 - Each folder includes 5 dimensions:
   empathic_understanding · moral_sensitivity · self_awareness · clarity_reasoning · growth_orientation
+
+---
+
+## 🧰 Development & Sync (for contributors)
+
+This repository is automatically synced between **GitHub** and **Hugging Face**.
+
+- GitHub: [https://github.com/shiningjohci/echo-index-dataset](https://github.com/shiningjohci/echo-index-dataset)  
+- Hugging Face: [https://huggingface.co/datasets/shiningjohci/echo-index-dataset](https://huggingface.co/datasets/shiningjohci/echo-index-dataset)
+
+To sync updates automatically:
+```bash
+git push origin main   # push to GitHub
+git push hf main       # push to Hugging Face
