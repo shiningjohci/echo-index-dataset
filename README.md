@@ -1,14 +1,12 @@
-## License
-This dataset and documentation are licensed under **CC-BY-4.0**.  
-See the [LICENSE](./LICENSE) file or visit [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/).
-
----
-
 # 🌊 Echo Index — Humanity Benchmark v1.0  
 **Version:** 1.0  
 **Author:** Simon Liu / Echo Suite  
 **License:** CC-BY-4.0  
 **Date:** 2025  
+
+## License
+This dataset and documentation are licensed under **CC-BY-4.0**.  
+See the [LICENSE](./LICENSE) file or visit [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
