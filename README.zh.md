@@ -114,19 +114,40 @@ Echo Index 更像一面镜子——并非取代人类的共情，而是帮助人
 
 ---
 
-## 📜 引用
-
-Liu, Simon (2025). Echo Index: Humanity Benchmark v1.0.  
-可于 [https://echosuite.app](https://echosuite.app)  
-或 [https://huggingface.co/datasets/shiningjohci/echo-index-dataset](https://huggingface.co/datasets/shiningjohci/echo-index-dataset) 获取。
-
----
-
 ## 🌍 语言
 - [English version](./README.md)
 - [中文说明](./README.zh.md)
 - 每个目录都包含五个维度：  
   empathic_understanding · moral_sensitivity · self_awareness · clarity_reasoning · growth_orientation
+
+---
+
+## 📊 数据集统计 (v1.1)
+
+| 语言 | 维度 | 样本数 | 示例 ID 范围 |
+|------|------|--------|----------------|
+| zh | 共情理解 (empathic_understanding) | 10 | ZH_EU_001 - ZH_EU_010 |
+| zh | 道德敏感 (moral_sensitivity) | 10 | ZH_MS_001 - ZH_MS_010 |
+| zh | 自我觉察 (self_awareness) | 10 | ZH_SA_001 - ZH_SA_010 |
+| zh | 澄清推理 (clarity_reasoning) | 10 | ZH_CR_001 - ZH_CR_010 |
+| zh | 成长取向 (growth_orientation) | 10 | ZH_GO_001 - ZH_GO_010 |
+| en | Empathic Understanding | 10 | EN_EU_001 - EN_EU_010 |
+| en | Moral Sensitivity | 10 | EN_MS_001 - EN_MS_010 |
+| en | Self Awareness | 10 | EN_SA_001 - EN_SA_010 |
+| en | Clarity Reasoning | 10 | EN_CR_001 - EN_CR_010 |
+| en | Growth Orientation | 10 | EN_GO_001 - EN_GO_010 |
+
+**样本总数：** 100  
+**语种：** 英语、中文  
+**评估维度：** 5 个 Humanity 指标  
+
+---
+
+## 📜 引用
+
+Liu, Simon (2025). Echo Index: Humanity Benchmark v1.0.  
+可于 [https://echosuite.app](https://echosuite.app)  
+或 [https://huggingface.co/datasets/shiningjohci/echo-index-dataset](https://huggingface.co/datasets/shiningjohci/echo-index-dataset) 获取。
 
 ---
 

@@ -117,6 +117,35 @@ but to help humans see their own reflections more clearly.
 
 ---
 
+## 🌍 Languages
+- [English version](./README.md)
+- [中文说明](./README.zh.md)
+- Each folder includes 5 dimensions:
+  empathic_understanding · moral_sensitivity · self_awareness · clarity_reasoning · growth_orientation
+
+---
+
+## 📊 Dataset Statistics (v1.1)
+
+| Language | Dimension | Samples | Example ID Range |
+|-----------|------------|----------|------------------|
+| zh | empathic_understanding | 10 | ZH_EU_001 – ZH_EU_010 |
+| zh | moral_sensitivity | 10 | ZH_MS_001 – ZH_MS_010 |
+| zh | self_awareness | 10 | ZH_SA_001 – ZH_SA_010 |
+| zh | clarity_reasoning | 10 | ZH_CR_001 – ZH_CR_010 |
+| zh | growth_orientation | 10 | ZH_GO_001 – ZH_GO_010 |
+| en | empathic_understanding | 10 | EN_EU_001 – EN_EU_010 |
+| en | moral_sensitivity | 10 | EN_MS_001 – EN_MS_010 |
+| en | self_awareness | 10 | EN_SA_001 – EN_SA_010 |
+| en | clarity_reasoning | 10 | EN_CR_001 – EN_CR_010 |
+| en | growth_orientation | 10 | EN_GO_001 – EN_GO_010 |
+
+**Total Samples:** 100  
+**Languages:** English, Chinese  
+**Dimensions:** 5 Humanity Metrics  
+
+---
+
 ## 📜 Citation
 
 Liu, Simon (2025). Echo Index: Humanity Benchmark v1.0.  
@@ -124,12 +153,6 @@ Available at [https://echosuite.app](https://echosuite.app)
 or [https://huggingface.co/datasets/shiningjohci/echo-index-dataset](https://huggingface.co/datasets/shiningjohci/echo-index-dataset)
 
 ---
-
-## 🌍 Languages
-- [English version](./README.md)
-- [中文说明](./README.zh.md)
-- Each folder includes 5 dimensions:
-  empathic_understanding · moral_sensitivity · self_awareness · clarity_reasoning · growth_orientation
 
 ---
 
